@@ -1,0 +1,11 @@
+{
+"name":"Mayu",
+"version": "1.0.0",
+"description": "Exclusive Made by Crin",
+"main": "main.js",
+"scripts": {
+    "test": "echo\"error:no test specified\" && exit 1"
+},
+"author": "Crin",
+"license": "ISC"
+}
