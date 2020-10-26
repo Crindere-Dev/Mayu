@@ -1,7 +1,8 @@
 # Mayu
 
 
-![mayu bot](blob:chrome-untrusted://media-app/b3c4d4dc-d55f-48ad-9083-de1a68790050)
+<!--image-->
+<br>![mayu](https://i.pinimg.com/564x/65/b5/67/65b56774ccf454a19c0421a710c3d8e4.jpg)
 
 
 This is the official github for Mayu.
