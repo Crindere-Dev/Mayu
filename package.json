@@ -2,7 +2,7 @@
 "name":"Mayu",
 "version": "1.0.0",
 "description": "Exclusive Made by Crin",
-"main": "main.js",
+"main": "bot.js",
 "scripts": {
     "test": "echo\"error:no test specified\" && exit 1"
 },
