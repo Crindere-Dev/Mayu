@@ -12,11 +12,18 @@ This bot is currently in developement so please let me know if anything needs fi
 
 ## Creating Commands
 ``` css
- if(command === 'commandname'){
-        message.channel.send('command');
-    } else if (command == 'commandname'){
-        message.channel.send('command');
+module.exports = {
+    name:'commandname',
+    description: "Desc. of said command",
+    execute(message, args){
+      //code goes here  
     }
+} 
 ```
+## Prefix
+-
+
 ## Current Commands
--ping
+* -ping
+* -pong
+* -hello
