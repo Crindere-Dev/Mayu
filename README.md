@@ -20,6 +20,12 @@ module.exports = {
     }
 } 
 ```
+## Plugin
+```js 
+nodenom
+discord.js
+```
+
 ## Prefix
  Dash: -
 
