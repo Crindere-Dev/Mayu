@@ -1,1 +1,1 @@
-worker: node bot.js
+<process type>: worker: node bot.js
