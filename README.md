@@ -21,7 +21,7 @@ module.exports = {
 } 
 ```
 ## Prefix
--
+ Dash: -
 
 ## Current Commands
 * -ping
