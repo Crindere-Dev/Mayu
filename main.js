@@ -28,11 +28,16 @@ client.on('message', message => {
     if(command === 'ping'){
         message.channel.send('pong');
 
-        client.commands.get('hello').execute(message, args);
-
     } else if (command == 'pong'){
         message.channel.send('ping');
-    }
+        
+    } else if (command == 'hello'){ client.commands.get('hello').execute(message, args);
+
+    } else if (command == 'twol_website'){ client.commands.get('twol website').execute(message, args);
+
+    } else if (command == 'suck_your_mum'){client.commands.get('suck your mum').execute(message, args);
+}
+
 })
 
-client.login('token');
+client.login('NzcwNDA0NTA4MTU2OTUyNjE3.X5dFHA.3dHfpBvA83VTN-COxmjnGqLa_LQ');
