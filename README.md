@@ -11,7 +11,7 @@ This is the official github for Mayu.
 This bot is currently in developement so please let me know if anything needs fixing.
 
 ## Creating Commands
-``` css
+``` js
 module.exports = {
     name:'commandname',
     description: "Desc. of said command",
