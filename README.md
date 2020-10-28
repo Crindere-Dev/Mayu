@@ -26,10 +26,17 @@ nodenom
 discord.js
 ```
 
-## Prefix
- Dash: -
-
 ## Current Commands
-* -ping
+### basic
+* -ping <br> 
 * -pong
 * -hello
+* -twol_website
+* -suck_your_mum
+* -avatar
+* -avatar {users tag}
+
+### Admin
+ <p colour = "red"> MUST HAVE 'gex' ROLE</p>
+
+ -ban {users tag} reason
