@@ -35,6 +35,7 @@ discord.js
 * -suck_your_mum
 * -avatar
 * -avatar {users tag}
+* -help
 
 ### Admin
  <p colour = "red"> MUST HAVE 'gex' ROLE</p>
